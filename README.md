@@ -1,2 +1,3 @@
 # prueba_4
-intento de clonar un repo a traves de vs code
+La aplicacion app.py nos permite visualizar dos graficos, un histograma y un grafico de dispersion
+Render link al proyecto: https://prueba-4-render.onrender.com/
